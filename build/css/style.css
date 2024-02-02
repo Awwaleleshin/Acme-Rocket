@@ -610,6 +610,10 @@ video {
   max-width: 28rem;
 }
 
+.max-w-6xl {
+  max-width: 72rem;
+}
+
 .scroll-mt-20 {
   scroll-margin-top: 5rem;
 }
