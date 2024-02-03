@@ -630,6 +630,10 @@ video {
   scroll-margin-top: 10rem;
 }
 
+.scroll-mt-2 {
+  scroll-margin-top: 0.5rem;
+}
+
 .list-none {
   list-style-type: none;
 }
@@ -985,6 +989,10 @@ video {
 
   .sm\:flex-row {
     flex-direction: row;
+  }
+
+  .sm\:justify-between {
+    justify-content: space-between;
   }
 
   .sm\:scroll-smooth {
